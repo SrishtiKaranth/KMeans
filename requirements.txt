@@ -1,0 +1,6 @@
+Flask 
+plotly 
+yfinance 
+numpy 
+scikit-learn 
+kneed
