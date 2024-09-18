@@ -10,7 +10,7 @@ import plotly.express as px
 import datetime
 
 app = Flask(__name__)
-app.secret_key = 'your_secret_key'  # Needed for session management
+app.secret_key = 'f2c0a3c9b5e1a9f8d4e8f5d6c7b1e0d8f'  # Needed for session management
 
 # Route for login page
 @app.route('/login', methods=['GET', 'POST'])
